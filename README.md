@@ -9,7 +9,7 @@
   >
 </p>
 <p align = "center">
-Figure. A simple bioinformatics script. It filters out the incomplete or corrupted fastq reads.
+Figure. A simple bioinformatics script written in Bash. It filters out the incomplete or corrupted fastq reads that give rise to errors in the downstream analyses.
 </p>
 
 <br />
