@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <img 
-    src="https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding/blob/main/TerminalScreen.PNG"
+    src="https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding/blob/main/TerminalScreen2.PNG"
   >
 </p>
 <p align = "center">
